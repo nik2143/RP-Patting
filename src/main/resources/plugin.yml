@@ -1,0 +1,8 @@
+name: RP-Patting
+version: ${project.version}
+main: io.github.nik2143.rppatting.RpPatting
+commands:
+  search:
+    description: Send a search request
+  searchrequest:
+    description: Accept or deny a request

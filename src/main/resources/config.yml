@@ -1,0 +1,18 @@
+no-perms: "&cYou haven't permissions to use this command!"
+wrong-usage-search: "&cWrong usage! &7Use /search <name>"
+wrong-usage-searchacceptdeny: "&cWrong usage! &7Use /searchrequest <accept/deny>"
+player-not-online: "&cThe player %playername% isn't online"
+no-frisk-yourself: "You can't frisk yourself"
+too-far: "&cYou are too far from %playername%"
+already-frisk-request: "&cThe user already has a frisk request"
+already-sent-frisk-request: "&cYou have already sent a frisk request"
+frisk-request: "%playername% would like to frisk you"
+frisk-request-sent: "&7Frisk request sent to %playername%"
+no-frisk-requests: "&cYou haven't a frisk request"
+denied-request: "%playername% have denied your pat request"
+denied-request-target: "You have denied %playername% pat request"
+accepted-request: "%playername% have accepted your pat request"
+accepted-request-target: "You have accepted %playername% pat request"
+
+cooldown-of-request: 10
+max-distance: 10
